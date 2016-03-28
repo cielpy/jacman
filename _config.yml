@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  Wiki: http://wiki.imciel.com
   About: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
@@ -32,7 +33,7 @@ author_img:  ## size:220px*220px.display author avatar picture.if don't want to 
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#2ca6cb'    ##the defaut theme color is blue
+    theme: '#333333'    ##the defaut theme color is blue
 
 # 代码高亮主题
 # available: default | night
