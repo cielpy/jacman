@@ -32,7 +32,7 @@ author_img:  ## size:220px*220px.display author avatar picture.if don't want to 
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#333333'    ##the defaut theme color is blue
+    theme: '#31A7CD'    ##the defaut theme color is blue
 
 # 代码高亮主题
 # available: default | night
