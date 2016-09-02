@@ -5,7 +5,9 @@ function root_for(path){
 	if (path.substring(0, root.length) !== root){
     if (path.substring(0, 1) === '/'){
       path = root.substring(0, root.length - 1) + path;
-    } else {
+    }else if (path.substring(0, 4) == "http") {
+      return path;
+    }else {
       path = root + path;
     }
   }
